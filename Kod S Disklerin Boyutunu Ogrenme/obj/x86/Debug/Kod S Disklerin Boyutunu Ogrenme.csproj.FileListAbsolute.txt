@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Disklerin Boyutunu Ogrenme\Kod S Disklerin Boyutunu Ogrenme\bin\Debug\Kod S Disklerin Boyutunu Ogrenme.exe
+C:\Users\mrt_b\Desktop\Kod S Disklerin Boyutunu Ogrenme\Kod S Disklerin Boyutunu Ogrenme\bin\Debug\Kod S Disklerin Boyutunu Ogrenme.pdb
+C:\Users\mrt_b\Desktop\Kod S Disklerin Boyutunu Ogrenme\Kod S Disklerin Boyutunu Ogrenme\obj\x86\Debug\Kod S Disklerin Boyutunu Ogrenme.exe
+C:\Users\mrt_b\Desktop\Kod S Disklerin Boyutunu Ogrenme\Kod S Disklerin Boyutunu Ogrenme\obj\x86\Debug\Kod S Disklerin Boyutunu Ogrenme.pdb
